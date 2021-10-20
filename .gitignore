@@ -1,0 +1,6 @@
+﻿TestTask4/bin/Debug
+TestTask4/obj/Debug
+*.user
+*.suo
+*.config
+TestTask4/obj
